@@ -1,8 +1,8 @@
 # Sections 📚
 
 ✔️ Cloning the weather app\
-✔️ Obtaining a valid API Key \
-✔️ Running the weather app\
+✔️ Obtaining a valid API Key\
+✔️ Running the weather app
 
 
 # Clone
